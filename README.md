@@ -1,6 +1,6 @@
 &nbsp;![image](https://github.com/DewanshVk/DewanshVk/assets/141478388/cf137f13-5610-4353-a8d6-16013ce77256)
 # Hi, I'm Dewansh
-![Data Analyst](https://github.com/DewanshVk/DewanshVk/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png))
+![Data Analyst](https://github.com/DewanshVk/DewanshVk/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 ## About Me
 Hey I'm a Data Analyst, I've a recent graduate with a Bachelor of Science in Computer Science, and I'm eager to secure a challenging role in data analysis. My passion lies in using data to solve complex business problems and enhance decision-making processes.
