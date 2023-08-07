@@ -6,11 +6,11 @@ I'm Dewansh from India , I've a recent graduate with a Bachelor of Science in Co
 
 Throughout my academic journey, I have acquired a solid foundation in data analysis techniques, statistical analysis, and data visualization using tools such as SQL. Engaging in various data-related projects has honed my critical thinking skills and attention to detail, enabling me to interpret and analyze data effectively.
 
-Skills:  💻 Microsoft Excel
-         📈 Microsoft Power BI
-         📊 Tableau
-         🗃️  SQL
-         🐍 Python (Programming Language)
+Skills:  💻 Microsoft Excel 
+• 📈 Microsoft Power BI
+• 📊 Tableau 
+• 🗃️  SQL 
+• 🐍 Python (Programming Language)
 
 
 
