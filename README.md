@@ -9,12 +9,12 @@ Throughout my academic journey, I have acquired a solid foundation in data analy
 ## Projects:
 ## Case Studies:
 ## Certifications:
-• Google Data Analytics 
-• IBM Data Analyst 
-• SQL for Data Science – University of California ,Davis 
-• Introduction to Structured Query Language (SQL) – University of Michigan 
-• Data Visualization with Tableau Specialization – University of California, Davis 
-• Excel Skills for Business Specialization – Macquarie University
+• Google Data Analytics<br>
+• IBM Data Analyst <br>
+• SQL for Data Science – University of California ,Davis <br>
+• Introduction to Structured Query Language (SQL) – University of Michigan <br>
+• Data Visualization with Tableau Specialization – University of California, Davis <br>
+• Excel Skills for Business Specialization – Macquarie University<br>
 ## Skills:  
 • 💻 Microsoft Excel <br>
 • 📈 Microsoft Power BI<br>
