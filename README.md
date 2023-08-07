@@ -10,9 +10,7 @@ Throughout my academic journey, I have acquired a solid foundation in data analy
    • Data Science Intern<br>
      Bharat Intern · Internship<br>
      Building Predictive Models with Data Science: A Professional's Guide. In-depth descriptions of data preprocessing, feature 
-     engineering, model selection, training, validation, and evaluation.<p>
-## Projects:
-## Case Studies:
+     engineering, model selection, training, validation, and evaluation.
 ## Certifications:
 • Google Data Analytics<br>
 • IBM Data Analyst <br>
