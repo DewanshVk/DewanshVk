@@ -1,4 +1,5 @@
-![image](https://github.com/DewanshVk/DewanshVk/assets/141478388/cf137f13-5610-4353-a8d6-16013ce77256)### Hi there 👋, Dewansh
+![image](https://github.com/DewanshVk/DewanshVk/assets/141478388/cf137f13-5610-4353-a8d6-16013ce77256)
+### Hi there 👋, Dewansh
 #### Data Analyst
 ![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
