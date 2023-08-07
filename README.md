@@ -10,6 +10,6 @@ You can checkout my LinkedIn at https://www.linkedin.com/in/dewanshvishwarkarma2
 
 Skills: Top skillsTop skills Microsoft Excel • Microsoft Power BI • Tableau • SQL • Python (Programming Language)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewansh)](https://github.com/anuraghazra/github-readme-stats)
+ <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewansh)](https://github.com/anuraghazra/github-readme-stats)--->
 
 
