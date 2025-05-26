@@ -2,7 +2,8 @@
 
 I'm **Dewansh**, a junior data engineer passionate about building scalable, cloud-native data pipelines.  
 I specialize in distributed processing, real-time data, and modern data stack tools on Azure & AWS.
-
+📝 My certification:  
+- Microsoft Azure Data Fundamentals  
 ---
 
 ### ⚙️ Tech Stack
@@ -18,23 +19,9 @@ I specialize in distributed processing, real-time data, and modern data stack to
 
 ---
 
-### 📝 Certification
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dewanshvk/)  
 
-- Microsoft Azure Data Fundamentals
-
----
-
-### 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+💥💥💥 ~~ [Check out my portfolio here][(https://dewanshvk.github.io/)! ~~ 💥💥💥
 
 ---
 
-### 📊 GitHub Stats
-
-![Dewansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-💥💥💥 ~~ Check out my portfolio [here](https://your-portfolio-link.com)! ~~ 💥💥💥
