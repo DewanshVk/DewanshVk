@@ -21,7 +21,7 @@ I specialize in distributed processing, real-time data, and modern data stack to
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dewanshvk/)  
 
-💥💥💥 ~~ [Check out my portfolio here][https://dewanshvk.github.io/]! ~~ 💥💥💥
+💥💥💥 ~~ [Check out my portfolio here](https://dewanshvk.github.io/)! ~~ 💥💥💥
 
 ---
 
