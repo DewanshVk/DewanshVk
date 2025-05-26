@@ -12,7 +12,7 @@ I specialize in distributed processing, real-time data, and modern data stack to
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="Spark" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Apache_Airflow_logo.svg" height="30" alt="Airflow" />
-  <img src="./images/databricks" height="30" alt="Databricks" />
+  <img src="./images/images.png" height="30" alt="Databricks" />
 
 </p>
 
