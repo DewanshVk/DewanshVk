@@ -2,8 +2,8 @@
 
 - I'm **Dewansh**, a junior data engineer passionate about building scalable, cloud-native data pipelines.  
 - I specialize in distributed processing, real-time data, and modern data stack tools on Azure & AWS.
-<br><br><br>
-📝 Certification
+<br><br>
+📝Certification
 - Microsoft Azure Data Fundamentals
 ---
 
