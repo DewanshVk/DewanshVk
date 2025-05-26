@@ -10,8 +10,8 @@ I specialize in distributed processing, real-time data, and modern data stack to
 [![Tech Stack](https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,azure,aws,kafka,docker,git)](https://skillicons.dev)
 
 <p align="left">
-  <img src="./images/Apache-Spark.png" height="30" alt="Spark" />
-  <img src="./images/Airflow.png" height="30" alt="Airflow" />
+  <img src="./images/Apache-Spark.png" height="70" alt="Spark" />
+  <img src="./images/Airflow.png" height="70" alt="Airflow" />
   <img src="./images/images.png" height="70" alt="Databricks" />
 
 </p>
