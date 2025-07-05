@@ -13,10 +13,6 @@
 - Apache spark
 - Airflow
 - Databricks
-  <img src="./images/Apache-Spark.png" height="10" alt="Spark" />
-  <img src="./images/Airflow.png" height="10" alt="Airflow" />
-  <img src="./images/images.png" height="10" alt="Databricks" />
-
 ---
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dewanshvk/)  
