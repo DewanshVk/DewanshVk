@@ -10,9 +10,9 @@
 ### ⚙️ Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,azure,aws,kafka,docker,git)](https://skillicons.dev)
-  <img src="./images/Apache-Spark.png" height="50" alt="Spark" />
-  <img src="./images/Airflow.png" height="50" alt="Airflow" />
-  <img src="./images/images.png" height="50" alt="Databricks" />
+  <img src="./images/Apache-Spark.png" height="30" alt="Spark" />
+  <img src="./images/Airflow.png" height="30" alt="Airflow" />
+  <img src="./images/images.png" height="30" alt="Databricks" />
 
 ---
 
