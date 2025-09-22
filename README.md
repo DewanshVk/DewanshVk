@@ -8,13 +8,11 @@ I’m **Dewansh**, a **Data Analyst & aspiring Data Engineer** passionate about 
 
 Whether you’re here to explore code, get inspired, or see how I approach **data-driven challenges**, you’re in the right place! Let’s turn numbers into stories—one repo at a time. 💻✨  
 
----
+### 💻 Tech Stack:  
+- Python | SQL | PySpark| Azure | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
+
 
 ### 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewanshvk/)  & Email: dewansh03@gmail.com
 
----
-
-### 💻 Tech Stack:  
-- Python | SQL | PySpark| Azure | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
 ---
