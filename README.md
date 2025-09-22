@@ -16,5 +16,5 @@ Whether you’re here to explore code, get inspired, or see how I approach **dat
 ---
 
 ### 💻 Tech Stack:  
-Python | SQL | PySpark| Azure | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
+- Python | SQL | PySpark| Azure | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
 ---
