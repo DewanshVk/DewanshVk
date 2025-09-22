@@ -11,12 +11,11 @@ Whether you’re here to explore code, get inspired, or see how I approach **dat
 ---
 
 ### 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewanshvk/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewanshvk/)  & Email: dewansh03@gmail.com
 
 ---
 
 ### 💻 Tech Stack:  
-[![Python](https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,excel,git)](https://skillicons.dev)  
 - Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
 
 ---
