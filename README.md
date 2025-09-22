@@ -1,23 +1,22 @@
-## Hey there! 👋
+## 👋 Hey there, welcome to my GitHub!  
 
-- I'm **Dewansh**, a junior data engineer passionate about building scalable, cloud-native data pipelines.  
-- I specialize in distributed processing, real-time data, and modern data stack tools on Azure & AWS.
-<br><br>
-📝Certification
-- Microsoft Azure Data Fundamentals
----
+I’m **Dewansh**, a **Data Analyst & aspiring Data Engineer** passionate about turning raw data into **actionable business insights**. Here, you'll find:  
 
-### ⚙️ Tech Stack
+- 📊 Projects where I’ve analyzed data, built dashboards, and uncovered trends that drive decisions  
+- 🛠️ Pipelines, visualizations, and models that make data **meaningful and accessible**  
+- 🌱 Lessons learned from solving real-world business problems with **Python, SQL, Power BI, and more**  
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,azure,aws,kafka,docker,git)](https://skillicons.dev)
-- Apache spark
-- Airflow
-- Databricks
----
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dewanshvk/)  
-
-💥💥💥 ~~ [Check out my portfolio here](https://dewanshvk.github.io/)! ~~ 💥💥💥
+Whether you’re here to explore code, get inspired, or see how I approach **data-driven challenges**, you’re in the right place! Let’s turn numbers into stories—one repo at a time. 💻✨  
 
 ---
 
+### 🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewanshvk/)  
+
+---
+
+### 💻 Tech Stack:  
+[![Python](https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,excel,git)](https://skillicons.dev)  
+- Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
+
+---
