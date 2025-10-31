@@ -1,21 +1,34 @@
-## 👋 Hey there, welcome to my GitHub!  
+## 👋 Hey there, welcome to my GitHub!   
 
-I’m **Dewansh**, a **Data Analyst** who turns raw data into **actionable insights** that drive business decisions.  
-I love exploring datasets, building **dashboards**, and uncovering trends that help companies grow smarter, faster, and more efficiently.  
+I’m **Dewansh Vishwakarma**, a **Data Analyst** who loves turning messy data into meaningful insights.
 
-Here, you'll find:  
-- 📊 Projects with data cleaning, visualization, and predictive analysis  
-- 🛠️ Interactive dashboards & pipelines that make insights accessible  
-- 🌱 Learnings from solving real-world business challenges with **Python, SQL, Power BI, and more**  
+I recently completed my **Master of Computer Applications (MCA)**, where I developed a strong interest in **data analytics** and its power to solve real-world problems.
 
-Whether you’re here to explore code, get inspired, or see how I tackle **data challenges**, you’re in the right place! Let’s turn numbers into stories—one repo at a time. 💻✨  
+Through **three Data Science internships**, I gained hands-on experience working with **Python, SQL, Excel, and Power BI** — cleaning data, creating dashboards, and uncovering insights that drive better decisions.  
 
-
-### 💻 Tech Stack:  
-- Python | SQL | PySpark| Azure | Power BI | Excel | Pandas | NumPy | Matplotlib | Seaborn | Git  
-
-
-### 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewanshvk/)  & Email: dewansh03@gmail.com
+I’m now focused on applying my skills to impactful projects, learning from real-world challenges, and growing as a data professional.  
+  
 
 ---
+
+## 🛠 Skills  
+**Languages & Tools:** Python | SQL | Power BI | Tableau | Excel  
+**Libraries:** Pandas | NumPy | Matplotlib | Seaborn | PySpark  
+**Cloud & DevOps:** Azure | Git | Databricks 
+
+---
+
+## 📊 Interests  
+- **Data Visualization:** Building dashboards that tell clear stories  
+- **Predictive Analytics:** Turning patterns into foresight  
+- **Automation:** Simplifying data workflows with pipelines  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DewanshVK-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewanshvk/)  
+[![Email](https://img.shields.io/badge/Email-dewanshvishwarkarma0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dewanshvishwarkarma0@gmail.com)
+
+---
+
+❤ [By Dewansh](https://github.com/dewanshvk)
