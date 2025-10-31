@@ -9,7 +9,7 @@ Through **three Data Science internships**, I gained hands-on experience working
 I’m now focused on applying my skills to impactful projects, learning from real-world challenges, and growing as a data professional.  
   
 
----
+
 
 ## 🛠 Skills  
 **Programming & Query Languages:** Python | SQL  
@@ -18,17 +18,16 @@ I’m now focused on applying my skills to impactful projects, learning from rea
 **Platforms & Version Control:** Databricks | Git
 
 
----
 
 ## 📊 Interests  
 - **Data Visualization:** Building dashboards that tell clear stories  
 - **Predictive Analytics:** Turning patterns into foresight  
 - **Automation:** Simplifying data workflows with pipelines  
 
----
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DewanshVK-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewanshvk/)  
 [![Email](https://img.shields.io/badge/Email-dewanshvishwarkarma0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dewanshvishwarkarma0@gmail.com)
 
----
+
