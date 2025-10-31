@@ -11,11 +11,11 @@ I’m now focused on applying my skills to impactful projects, learning from rea
 
 
 
-## 🛠 Skills  
-**Programming & Query Languages:** Python | SQL  
-**Data Visualization & BI Tools:** Power BI | Tableau | Excel  
-**Libraries & Frameworks:** Pandas | NumPy | Matplotlib | Seaborn  
-**Platforms & Version Control:** Databricks | Git
+## 🛠 Skills    
+`Python` · `SQL` · `Power BI` · `Tableau` · `Excel`  
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `PySpark`  
+`Azure` · `Databricks` · `Git`
+
 
 
 
