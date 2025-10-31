@@ -12,9 +12,11 @@ I’m now focused on applying my skills to impactful projects, learning from rea
 ---
 
 ## 🛠 Skills  
-**Languages & Tools:** Python | SQL | Power BI | Tableau | Excel  
-**Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
-**Tools:** Git | Databricks 
+**Programming & Query Languages:** Python | SQL  
+**Data Visualization & BI Tools:** Power BI | Tableau | Excel  
+**Libraries & Frameworks:** Pandas | NumPy | Matplotlib | Seaborn  
+**Platforms & Version Control:** Databricks | Git
+
 
 ---
 
@@ -30,5 +32,3 @@ I’m now focused on applying my skills to impactful projects, learning from rea
 [![Email](https://img.shields.io/badge/Email-dewanshvishwarkarma0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dewanshvishwarkarma0@gmail.com)
 
 ---
-
-❤ [By Dewansh](https://github.com/dewanshvk)
