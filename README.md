@@ -13,8 +13,8 @@ I’m now focused on applying my skills to impactful projects, learning from rea
 
 ## 🛠 Skills  
 **Languages & Tools:** Python | SQL | Power BI | Tableau | Excel  
-**Libraries:** Pandas | NumPy | Matplotlib | Seaborn | PySpark  
-**Cloud & DevOps:** Azure | Git | Databricks 
+**Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
+**Tools:** Git | Databricks 
 
 ---
 
