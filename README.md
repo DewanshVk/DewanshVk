@@ -28,6 +28,6 @@ I’m now focused on applying my skills to impactful projects, learning from rea
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DewanshVK-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewanshvk/)  
-[![Email](https://img.shields.io/badge/Email-dewanshvishwarkarma0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dewanshvishwarkarma0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dewanshvishwarkarma0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:dewanshvishwakarma369@gmail.com)
 
 
